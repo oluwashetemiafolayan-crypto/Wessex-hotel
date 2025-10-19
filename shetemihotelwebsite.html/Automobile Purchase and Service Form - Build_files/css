@@ -1,0 +1,3 @@
+:root {
+--user-color-scheme: system;
+}
